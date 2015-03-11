@@ -17,7 +17,6 @@ MAKE SURE YOU HAVE PYTHON 3 INSTALLED
 4. Open up your favorite shell
 5. Navigate to the directory of the repo.
 6. Run the command: python email_scraper.py
-NOTE: This works because I have my Python3 in PATH(I use Windows) set to Python. 
 7. Copy and paste the contents of the file produced, email_list.txt, into the receipients field of the email you want to send.
 8. Write the contents of the email and press send.
 
